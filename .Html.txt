@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="style.css">
+<body style="background-image: url("C:\Users\sb\Documents\bg.jpg.jpeg")>
+  <! https://ibb.co/bMBPsTh7>
+</head>
+<body>
+   <br>  <br>  <br><br> <div class="login-container">
+        <div class="login-box"></br>  </br>  </br>  </br>
+            <h1><center>Login</h1></center>
+            <form id="loginForm">
+                <div class="input-group">
+                   <br><center>  <label for="username">Username</label>
+                    <input type="text" id="username" name="username" required></center> </br>
+                </div>
+                <div class="input-group">
+                     <br><center><label for="password">Password</label>
+                    <input type="password" id="password" name="password" required></center> </br>
+                </div>
+               
+<center><a href="ai webpage ict.html">Welcome to webpage</a></center>
+
+            </form>
+        </div>
+    </div>
+</body>
+</html>
